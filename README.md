@@ -2,6 +2,7 @@
  XpandIt Challenge
 
 Source code in [here](src/main/scala/challenge)
+
 Resources (csv files) in [here](src/main/scala/resources/props.properties)
 
 ## Requirements
