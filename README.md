@@ -1,6 +1,9 @@
 # XpandIt
  XpandIt Challenge
 
+Source code in [here](src/main/scala/challenge)
+Resources (csv files) in [here](src/main/scala/resources/props.properties)
+
 ## Requirements
  The following environment variables must be set:
  - %SPARK_HOME%
